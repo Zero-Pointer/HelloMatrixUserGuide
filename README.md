@@ -4,7 +4,7 @@
 
 这是小程序码:point_right:
 
-<img align="right" width="300" src="img/procode.jpg"/>
+<img align="right" width="200" src="img/procode.jpg"/>
 
 [:heavy_exclamation_mark: 看不到图片的话请点这里](https://gitee.com/Zero-Pointer/HelloMatrixUserGuide)
 
