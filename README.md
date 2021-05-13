@@ -2,6 +2,8 @@
 
 :smile: 欢迎你来！这里是 *HelloMatrix* 的介绍文档！
 
+[:heavy_exclamation_mark: 看不到图片的话请点这里](https://gitee.com/Zero-Pointer/HelloMatrixUserGuide)
+
 此文档中会逐一介绍以下功能，并且会在将来继续更新:muscle:：
 
 * 矩阵的换位操作
